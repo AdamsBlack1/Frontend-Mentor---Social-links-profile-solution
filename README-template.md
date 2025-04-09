@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/AdamsBlack1/Frontend-Mentor---Social-links-profile-solution)
+- Live Site URL: [Add live site URL here](https://frontend-mentor-social-links-profile-solution-pi.vercel.app/)
 
 ## My process
 
@@ -43,7 +43,6 @@ Users should be able to:
 - Mobile-first workflow
 
 ### Code I am proud of
-
 
 
 ```css
@@ -59,7 +58,7 @@ I see I need to work more on my responsiveness.
 
 ### Useful resources
 
-- [Rsource 1](https://www.youtube.com/watch?v=vQDgoQKfdzM&t=327s) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Rsource 1](https://www.youtube.com/watch?v=vQDgoQKfdzM&t=327s) - This helped me get more information on creating a responsive design.
 
 
 ## Author

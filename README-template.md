@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AdamsBlack1/Frontend-Mentor---Social-links-profile-solution)
-- Live Site URL: [Add live site URL here](https://frontend-mentor-social-links-profile-solution-pi.vercel.app/)
+- Solution URL: [GitHub Repository](https://github.com/AdamsBlack1/Frontend-Mentor---Social-links-profile-solution)
+- Live Site URL: [Live on Vercel](https://frontend-mentor-social-links-profile-solution-pi.vercel.app/)
 
 ## My process
 
